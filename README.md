@@ -10,3 +10,9 @@ Goals:
  - Should run infinitly.
  - Can move view over the program.
  - Can speed up and slow down time .
+
+Progress 3/30:
+ - I have set up a basic display program that we can just call update 
+ in a loop to iterate throught the game. 
+ - I still need to figure out a good way to read the data in a .txt 
+ file and put it into the display.
